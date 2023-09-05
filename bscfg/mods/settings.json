@@ -1,0 +1,13 @@
+{
+    "serverAdmin": {
+        "roles": {
+            "owner": ["pb-IF4xVUg4FA=="],
+            "admin": [],
+            "vip": []
+        }
+    },
+
+    "features": {
+        "turbo_spamming": true
+    }
+}
